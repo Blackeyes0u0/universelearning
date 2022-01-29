@@ -10,7 +10,7 @@
 ## Contents
 
 ### Sorting
-* [intro section](intro.py)
+* [greeeeeedd](intro.py)
 
 
 ### 1. greedy
