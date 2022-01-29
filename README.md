@@ -1,6 +1,8 @@
 ###🔭 I’m currently working on coding test 👋
 
 ### 1. greedy
+* [Selection Sort](intro.py)
+
 
 <!--
 **zuha77/zuha77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
