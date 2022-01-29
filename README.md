@@ -10,11 +10,11 @@
 ## Contents
 
 ### Sorting
-* [greeeeeedd](intro.py)
+* [intro](intro.py)
 
 
 ### 1. greedy
-* [intro section](greeed.py)
+* [greeeeddd section](greeed.py)
 
 ### Searching
 
