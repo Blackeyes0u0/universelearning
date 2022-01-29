@@ -1,7 +1,7 @@
 ###🔭 I’m currently working on coding test 👋
 
 ### 1. greedy
-* [Selection Sort](intro.py)
+* [intro section](intro.py)
 
 
 <!--
