@@ -1,7 +1,8 @@
-- 🌱 I’m currently learning 
-- 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help with 
-- 📫 How to reach me : jhshin1030@naver.com
+- 😄 Hi!, i'm zuha77!
+- 🌱 I’m currently learning linear algebra, ML, Quantum information.
+- 👯 I’m looking to collaborate on you.
+- 🤔 I’m looking for help with virtual simulation.
+- 📫 How to reach me : jhshin1030@naver.com.
 
 <!--
 **zuha77/zuha77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
