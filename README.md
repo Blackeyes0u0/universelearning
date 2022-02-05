@@ -1,6 +1,6 @@
 - 😄 Hi!, i'm zuha77!
 - 🌱 I’m currently learning ML, Quantum information.
-- 👯 I’m looking to collaborate on you.
+- 👯 I’m looking to collaborate on you for build elegant virtual universe.
 - 🤔 I’m looking for help with virtual simulation.
 - 📫 How to reach me : jhshin1030@naver.com.
 
